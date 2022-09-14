@@ -1,0 +1,7 @@
+.nav-bar {
+    background-color: black;
+    color: white;
+    display: flex;
+
+    list-style: none;
+}
